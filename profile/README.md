@@ -1,17 +1,8 @@
 # OpenCloning
 
-A set of Open Source tools for designing, automating, and sharing DNA cloning workflows.
+A set of Open Source tools for DNA design.
 
-## 🚀 What you can do
-- Design cloning strategies (Gibson, Golden Gate, etc.)
-- Import sequences from AddGene, NCBI, SnapGene
-- Automate workflows with scripts and templates
-- Share reproducible workflows as structured data
+* The main repository is [OpenCloning](https://github.com/OpenCloning/OpenCloning).
+* The project website is [opencloning.org](https://opencloning.org).
 
-## ⚡ Get started in 5 minutes
-1. Try the web app: <link>
-2. Run a simple example:
-
-```python
-# minimal working example
-```
+If you want to contribute or implement OpenCloning in your organization, reach out to [manu@leraram.com](mailto:manu@leraram.com).
