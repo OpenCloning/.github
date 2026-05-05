@@ -1,6 +1,6 @@
 # OpenCloning
 
-A set of Open Source tools for DNA design.
+A set of Open Source tools for DNA engineering.
 
 * The main repository is [OpenCloning](https://github.com/OpenCloning/OpenCloning).
 * The project website is [opencloning.org](https://opencloning.org).
